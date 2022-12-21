@@ -2,7 +2,7 @@
 - 👀 I take great care in the experience, architecture, and code quality of the things I build.
 - 🌱 I’m currently learning svelte js as a front end skill and many more skills to get the knowledge of every aspect of development.
 - 💞️ I’m looking to collaborate on any open source project(s). I'm a begginer in open source world.
-- 📫 You can reach out to me on ![umairyetoo@gmail.com](https://github.com/umairjyetoo/umairjyetoo/blob/main/gmail.ico)
+- 📫 You can reach out to me on umairyetoo@gmail.com
 
 
 ![code.gif](https://github.com/umairjyetoo/umairjyetoo/blob/main/code.gif)

@@ -17,4 +17,4 @@
 
 **Where to find me**
 
-![Github](https://github.com/umairjyetoo)  ![Medium](https://umairyetoo.medium.com/) ![LinkedIn](https://www.linkedin.com/in/umair-yatoo/)
+![Github](https://github.com/umairjyetoo/umairjyetoo/blob/main/GithubFind.svg)(https://github.com/umairjyetoo)  ![Medium](https://github.com/umairjyetoo/umairjyetoo/blob/main/Medium.svg)(https://umairyetoo.medium.com/) ![LinkedIn](https://github.com/umairjyetoo/umairjyetoo/blob/main/LinkedIn.svg)(https://www.linkedin.com/in/umair-yatoo/)

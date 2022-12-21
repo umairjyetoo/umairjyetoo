@@ -1,4 +1,4 @@
-![Emoji](https://github.com/umairjyetoo/umairjyetoo/blob/main/intro.gif) 
+![Emoji](https://github.com/umairjyetoo/umairjyetoo/blob/main/intro.gif width='300') 
 
 **Hey! Nice to see you.**
 - 🧑 I’m Umair Jan Yetoo. I'm a Backend Developer. I have around 5 years of development experience. 

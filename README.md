@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on any open source project(s). I'm a begginer in open source world.
 - 📫 You can reach out to me on ![umairyetoo@gmail.com]
 
-https://github.com/umairjyetoo/umairjyetoo/blob/main/code.gif
+
+![code.gif](https://github.com/umairjyetoo/umairjyetoo/blob/main/code.gif)

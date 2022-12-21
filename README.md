@@ -1,4 +1,4 @@
-<img src="https://github.com/umairjyetoo/umairjyetoo/blob/main/profileViews.svg" style="align:center"/>
+<img src="https://github.com/umairjyetoo/umairjyetoo/blob/main/profileViews.svg" style="align:right"/>
 **Hey👋 Nice to see you,**
 - 🧑 I’m Umair Jan Yetoo. I'm a Backend Developer. I have around 5 years of development experience. 
 - 👀 I take great care in the experience, architecture, and code quality of the things I build.

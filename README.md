@@ -16,3 +16,5 @@
 
 
 **Where to find me**
+
+![Github](https://github.com/umairjyetoo)  ![Medium](https://umairyetoo.medium.com/) ![LinkedIn](https://www.linkedin.com/in/umair-yatoo/)
